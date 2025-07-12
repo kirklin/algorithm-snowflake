@@ -1,7 +1,7 @@
 {
   "name": "algorithm-snowflake",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@10.13.1",
   "description": "A TypeScript implementation of the Snowflake algorithm for generating unique distributed IDs.",
   "author": "Kirk Lin <https://github.com/kirklin>",
